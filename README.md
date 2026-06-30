@@ -106,7 +106,7 @@ https://github.com/YedukondaluCheeraboina/chicago-crime-analytics-platform
 
 ---
 
-# 🏆 GitHub Trophies
+<!-- # 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=YedukondaluCheeraboina&theme=tokyonight&no-frame=true&margin-w=15" />
@@ -121,7 +121,7 @@ https://github.com/YedukondaluCheeraboina/chicago-crime-analytics-platform
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YedukondaluCheeraboina&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+--- -->
 
 # 🔥 GitHub Streak
 
